@@ -23,7 +23,14 @@ Python, Streamlit, Pandas, NumPy, Scikit-learn, Matplotlib
 pip install streamlit pandas numpy scikit-learn matplotlib
 python -m streamlit run main.py
 
+---
+
 📌 Example
 
 Spam: “Congratulations! You won 1,00,000 Rs click now”
 Safe: “Hey, are you coming to college today?”
+
+---
+👨‍💻 Author
+
+Mohammed
